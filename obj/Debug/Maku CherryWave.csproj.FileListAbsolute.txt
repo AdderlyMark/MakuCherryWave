@@ -1,0 +1,11 @@
+G:\1МоиПрограммы\Проект\Maku CherryWave\bin\Debug\Maku CherryWave.exe.config
+G:\1МоиПрограммы\Проект\Maku CherryWave\bin\Debug\Maku CherryWave.exe
+G:\1МоиПрограммы\Проект\Maku CherryWave\bin\Debug\Maku CherryWave.pdb
+G:\1МоиПрограммы\Проект\Maku CherryWave\obj\Debug\Maku CherryWave.csproj.AssemblyReference.cache
+G:\1МоиПрограммы\Проект\Maku CherryWave\obj\Debug\Maku_CherryWave.Form1.resources
+G:\1МоиПрограммы\Проект\Maku CherryWave\obj\Debug\Maku_CherryWave.Properties.Resources.resources
+G:\1МоиПрограммы\Проект\Maku CherryWave\obj\Debug\Maku CherryWave.csproj.GenerateResource.cache
+G:\1МоиПрограммы\Проект\Maku CherryWave\obj\Debug\Maku CherryWave.csproj.CoreCompileInputs.cache
+G:\1МоиПрограммы\Проект\Maku CherryWave\obj\Debug\Maku CherryWave.exe
+G:\1МоиПрограммы\Проект\Maku CherryWave\obj\Debug\Maku CherryWave.pdb
+G:\1МоиПрограммы\Проект\Maku CherryWave\obj\Debug\Maku_CherryWave.Form2.resources
